@@ -17,5 +17,5 @@ resource "aws_instance" "webserver" {
 
 resource "aws_key_pair" "key" {
   key_name   = "sample"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFhBZBaNHU4/E5rQmeSVv/e1EZT9qfgV6Mk+sUvk38Ays114afZcalNuZi4RWMs5HJQ41cyBACylvHEPswGYb9jtgi5U9M+bT19EoYLWjFa6WFSs+QNHxTwZmBChKAa4inBAHtllF5/r2Cxw2+O7Iy2T6iBBAxCxf22S1P3u+HNepCnmlQS+KLo5tVSx/9DTgv8pwq7BZd2XgGRgjqchphHMS+KN9tg+Pr7np/0OiRP7QfFjkqmGAlQA4x/tEvDtF1aQbTU+YDIcpG2Zkth5cyI6eKqTSZSUYeeCji+0Ppq8443uSy/EYZNQQ1bT8JAa79YdFXUyD1cmMpUUnyq6yx naresh@naresh"
+  public_key = "xxxx"
 }
