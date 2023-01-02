@@ -1,12 +1,12 @@
 terraform.tfvars:
 
-It stores variable values
+> It stores variable values
 
-default values
+> default values
 
-locally stored 
+> locally stored 
 
-uses when different types of env
+> uses when different types of env
 
 
 
