@@ -1,4 +1,4 @@
-terraform.tfvars
+terraform.tfvars:
 
 It stores variable values
 
