@@ -8,5 +8,11 @@ terraform.tfvars:
 
 > uses when different types of env
 
+> terraform init
+
+> terraform plan
+
+> terraform apply
+
 
 
